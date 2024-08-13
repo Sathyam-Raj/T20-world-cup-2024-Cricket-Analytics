@@ -1,5 +1,5 @@
 # T20-world-cup-2024-Cricket-Analytics
-This repository contains a collection of data analysis tools and visualizations for cricket. The project aims to provide insights into various aspects of the game, including player performance, team statistics, and match outcomes. Using a combination of historical data and advanced analytical techniques, this project offers a comprehensive look at cricket metrics and trends.
+This repository contains a collection of data analysis tools and visualizations for cricket. The project aims to provide insights into various aspects of the game, including player performance, team statistics, and match outcomes. Using a combination of t20 WORLD CUP 2024 data and advanced analytical techniques, this project offers a comprehensive look at cricket metrics and trends. This project offers us to see the players performance in T20 world cup 2024 and helps to create a Final 11 of the tournament.
 
 Features:
 
